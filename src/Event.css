@@ -1,0 +1,55 @@
+body {
+  min-height: 500px;
+  background-image: url("background.jpeg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  font-size: 14px;
+  font-family: 'Avenir LT Std', sans-serif;
+}
+
+.event-page-title {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.form-control {
+  width: 200px;
+  margin: 30px;
+}
+
+.event-block {
+  min-width: 50px;
+  min-height: 200px;
+  background: #ffffff;
+  margin: 5%;
+  border-radius: 10px;
+}
+
+.event-block:hover {
+  color: rgba(0, 0, 0, .5);
+}
+
+.event-blockshadow {
+  position: relative;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  padding: 10px;
+  background: white;
+}
+
+.event-name {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.event-venue {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.event-time {
+  padding-left: 20px;
+}

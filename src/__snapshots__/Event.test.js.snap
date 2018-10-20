@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`event page snapshot test 1`] = `
+<div
+  className="container"
+>
+  <h1
+    className="event-page-title"
+  >
+    Recent Events
+  </h1>
+  <div>
+    Loading...
+  </div>
+</div>
+`;
